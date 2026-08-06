@@ -1,30 +1,31 @@
-2026-08-06 17:40:07 Started replace_files.
-2026-08-06 17:40:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-06 17:40:46 Downloading observations.
-2026-08-06 17:40:46 Updating 6849 taxa from 2026-08-05 (=2026-08-06 - 1 days) to 2026-08-06.
-2026-08-06 17:40:46 2026-08-06
-2026-08-06 17:40:55   upserted 4697 observations
-2026-08-06 17:41:01 2026-08-05
-2026-08-06 17:41:12   upserted 7672 observations
-2026-08-06 17:41:18   removed 234 observations deleted from Artportalen
-2026-08-06 17:41:18 Processing.
-2026-08-06 17:41:18 Loading species.
-2026-08-06 17:41:23 Loading notifications from shape files.
-2026-08-06 17:41:23 Loading observations.
-2026-08-06 17:41:35 Adding observations to notifications.
-2026-08-06 17:41:40 Freeing memory.
-2026-08-06 17:41:40 Loading observation Excel dictionaries.
-2026-08-06 17:41:40 Adding owners.
-2026-08-06 17:41:58 Processing logging notifications.
-2026-08-06 17:41:58 Generating observation maps.
-2026-08-06 17:44:29 Generating knärot maps.
-2026-08-06 17:44:41 Generating complaints.
-2026-08-06 17:44:52 Generating complaint letters.
-2026-08-06 17:45:02 Generating requests.
-2026-08-06 17:45:13 Generating request letters.
-2026-08-06 17:45:34 Saving notification information to Excel.
-2026-08-06 17:45:34 Saving list of notifications to json.
-2026-08-06 17:45:34 Copying species text document.
-2026-08-06 17:45:34 Saving observations to Excel.
-2026-08-06 17:45:45 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-06 17:45:45 Pushing 1 repos.
+2026-08-06 18:10:07 Started replace_files.
+2026-08-06 18:10:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-06 18:10:46 Downloading observations.
+2026-08-06 18:10:46 Updating 6849 taxa from 2026-08-05 (=2026-08-06 - 1 days) to 2026-08-06.
+2026-08-06 18:10:46 2026-08-06
+2026-08-06 18:10:55   upserted 4862 observations
+2026-08-06 18:11:01   removed 1 observations deleted from Artportalen
+2026-08-06 18:11:01 2026-08-05
+2026-08-06 18:11:08   upserted 7672 observations
+2026-08-06 18:11:14   removed 234 observations deleted from Artportalen
+2026-08-06 18:11:14 Processing.
+2026-08-06 18:11:14 Loading species.
+2026-08-06 18:11:19 Loading notifications from shape files.
+2026-08-06 18:11:19 Loading observations.
+2026-08-06 18:11:30 Adding observations to notifications.
+2026-08-06 18:11:36 Freeing memory.
+2026-08-06 18:11:36 Loading observation Excel dictionaries.
+2026-08-06 18:11:36 Adding owners.
+2026-08-06 18:11:54 Processing logging notifications.
+2026-08-06 18:11:54 Generating observation maps.
+2026-08-06 18:14:25 Generating knärot maps.
+2026-08-06 18:14:36 Generating complaints.
+2026-08-06 18:14:47 Generating complaint letters.
+2026-08-06 18:14:58 Generating requests.
+2026-08-06 18:15:09 Generating request letters.
+2026-08-06 18:15:29 Saving notification information to Excel.
+2026-08-06 18:15:29 Saving list of notifications to json.
+2026-08-06 18:15:29 Copying species text document.
+2026-08-06 18:15:29 Saving observations to Excel.
+2026-08-06 18:15:41 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-06 18:15:41 Pushing 1 repos.
