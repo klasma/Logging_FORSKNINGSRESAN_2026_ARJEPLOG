@@ -1,27 +1,27 @@
-2026-08-14 13:30:06 Started replace_files.
-2026-08-14 13:30:06 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 13:31:08 Downloading observations.
-2026-08-14 13:31:08 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
-2026-08-14 13:31:08 2026-08-14
-2026-08-14 13:31:20 2026-08-13
-2026-08-14 13:31:37 Processing.
-2026-08-14 13:31:37 Loading species.
-2026-08-14 13:31:42 Loading notifications from shape files.
-2026-08-14 13:31:42 Loading observations.
-2026-08-14 13:31:53 Adding observations to notifications.
-2026-08-14 13:31:54 Freeing memory.
-2026-08-14 13:31:54 Loading observation Excel dictionaries.
-2026-08-14 13:31:54 Adding owners.
-2026-08-14 13:32:11 Processing logging notifications.
-2026-08-14 13:32:11 Generating observation maps.
-2026-08-14 13:32:29 Generating knärot maps.
-2026-08-14 13:32:29 Generating complaints.
-2026-08-14 13:32:40 Generating complaint letters.
-2026-08-14 13:32:50 Generating requests.
-2026-08-14 13:33:00 Generating request letters.
-2026-08-14 13:33:21 Saving notification information to Excel.
-2026-08-14 13:33:21 Saving list of notifications to json.
-2026-08-14 13:33:21 Copying species text document.
-2026-08-14 13:33:21 Saving observations to Excel.
-2026-08-14 13:33:31 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 13:33:31 Pushing 1 repos.
+2026-08-14 13:40:06 Started replace_files.
+2026-08-14 13:40:06 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 13:41:08 Downloading observations.
+2026-08-14 13:41:08 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
+2026-08-14 13:41:08 2026-08-14
+2026-08-14 13:41:20 2026-08-13
+2026-08-14 13:41:39 Processing.
+2026-08-14 13:41:39 Loading species.
+2026-08-14 13:41:44 Loading notifications from shape files.
+2026-08-14 13:41:45 Loading observations.
+2026-08-14 13:41:56 Adding observations to notifications.
+2026-08-14 13:41:56 Freeing memory.
+2026-08-14 13:41:56 Loading observation Excel dictionaries.
+2026-08-14 13:41:57 Adding owners.
+2026-08-14 13:42:14 Processing logging notifications.
+2026-08-14 13:42:14 Generating observation maps.
+2026-08-14 13:42:32 Generating knärot maps.
+2026-08-14 13:42:32 Generating complaints.
+2026-08-14 13:42:43 Generating complaint letters.
+2026-08-14 13:42:53 Generating requests.
+2026-08-14 13:43:04 Generating request letters.
+2026-08-14 13:43:24 Saving notification information to Excel.
+2026-08-14 13:43:24 Saving list of notifications to json.
+2026-08-14 13:43:24 Copying species text document.
+2026-08-14 13:43:24 Saving observations to Excel.
+2026-08-14 13:43:34 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 13:43:34 Pushing 1 repos.
