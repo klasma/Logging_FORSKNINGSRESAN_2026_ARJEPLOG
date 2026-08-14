@@ -1,28 +1,27 @@
-2026-08-14 21:30:06 Started replace_files.
-2026-08-14 21:30:06 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 21:31:09 Downloading observations.
-2026-08-14 21:31:09 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
-2026-08-14 21:31:09 2026-08-14
-2026-08-14 21:31:11 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 21:32:26 2026-08-13
-2026-08-14 21:32:38 Processing.
-2026-08-14 21:32:38 Loading species.
-2026-08-14 21:32:43 Loading notifications from shape files.
-2026-08-14 21:32:43 Loading observations.
-2026-08-14 21:32:55 Adding observations to notifications.
-2026-08-14 21:32:55 Freeing memory.
-2026-08-14 21:32:55 Loading observation Excel dictionaries.
-2026-08-14 21:32:55 Adding owners.
-2026-08-14 21:33:13 Processing logging notifications.
-2026-08-14 21:33:13 Generating observation maps.
-2026-08-14 21:33:30 Generating knärot maps.
-2026-08-14 21:33:30 Generating complaints.
-2026-08-14 21:33:41 Generating complaint letters.
-2026-08-14 21:33:51 Generating requests.
-2026-08-14 21:34:02 Generating request letters.
-2026-08-14 21:34:22 Saving notification information to Excel.
-2026-08-14 21:34:22 Saving list of notifications to json.
-2026-08-14 21:34:22 Copying species text document.
-2026-08-14 21:34:22 Saving observations to Excel.
-2026-08-14 21:34:32 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 21:34:32 Pushing 1 repos.
+2026-08-14 21:40:06 Started replace_files.
+2026-08-14 21:40:06 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 21:41:09 Downloading observations.
+2026-08-14 21:41:09 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
+2026-08-14 21:41:09 2026-08-14
+2026-08-14 21:41:20 2026-08-13
+2026-08-14 21:41:37 Processing.
+2026-08-14 21:41:37 Loading species.
+2026-08-14 21:41:42 Loading notifications from shape files.
+2026-08-14 21:41:42 Loading observations.
+2026-08-14 21:41:54 Adding observations to notifications.
+2026-08-14 21:41:54 Freeing memory.
+2026-08-14 21:41:54 Loading observation Excel dictionaries.
+2026-08-14 21:41:54 Adding owners.
+2026-08-14 21:42:12 Processing logging notifications.
+2026-08-14 21:42:12 Generating observation maps.
+2026-08-14 21:42:29 Generating knärot maps.
+2026-08-14 21:42:30 Generating complaints.
+2026-08-14 21:42:40 Generating complaint letters.
+2026-08-14 21:42:51 Generating requests.
+2026-08-14 21:43:01 Generating request letters.
+2026-08-14 21:43:22 Saving notification information to Excel.
+2026-08-14 21:43:22 Saving list of notifications to json.
+2026-08-14 21:43:22 Copying species text document.
+2026-08-14 21:43:22 Saving observations to Excel.
+2026-08-14 21:43:32 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 21:43:32 Pushing 1 repos.
