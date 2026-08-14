@@ -1,41 +1,27 @@
-2026-08-14 09:40:07 Started replace_files.
-2026-08-14 09:40:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 09:41:08 Downloading observations.
-2026-08-14 09:41:08 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
-2026-08-14 09:41:08 2026-08-14
-2026-08-14 09:41:13 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:42:24 2026-08-13
-2026-08-14 09:42:29 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:43:32 Request failed (attempt 2/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:44:37 Request failed (attempt 3/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:45:41 Request failed (attempt 4/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:46:47 Request failed (attempt 5/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:47:50 Request failed (attempt 6/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:48:55 Request failed (attempt 7/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:50:02 Request failed (attempt 8/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:51:05 Request failed (attempt 9/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:52:10 Request failed (attempt 10/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:53:14 Request failed (attempt 11/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:54:17 Request failed (attempt 12/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:55:25 Request failed (attempt 13/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-14 09:56:38 Processing.
-2026-08-14 09:56:38 Loading species.
-2026-08-14 09:56:42 Loading notifications from shape files.
-2026-08-14 09:56:43 Loading observations.
-2026-08-14 09:56:54 Adding observations to notifications.
-2026-08-14 09:56:54 Freeing memory.
-2026-08-14 09:56:54 Loading observation Excel dictionaries.
-2026-08-14 09:56:55 Adding owners.
-2026-08-14 09:57:12 Processing logging notifications.
-2026-08-14 09:57:12 Generating observation maps.
-2026-08-14 09:57:30 Generating knärot maps.
-2026-08-14 09:57:30 Generating complaints.
-2026-08-14 09:57:40 Generating complaint letters.
-2026-08-14 09:57:51 Generating requests.
-2026-08-14 09:58:01 Generating request letters.
-2026-08-14 09:58:22 Saving notification information to Excel.
-2026-08-14 09:58:22 Saving list of notifications to json.
-2026-08-14 09:58:22 Copying species text document.
-2026-08-14 09:58:22 Saving observations to Excel.
-2026-08-14 09:58:32 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-14 09:58:32 Pushing 1 repos.
+2026-08-14 10:00:07 Started replace_files.
+2026-08-14 10:00:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 10:01:08 Downloading observations.
+2026-08-14 10:01:08 Updating 6849 taxa from 2026-08-13 (=2026-08-14 - 1 days) to 2026-08-14.
+2026-08-14 10:01:08 2026-08-14
+2026-08-14 10:01:15 2026-08-13
+2026-08-14 10:01:27 Processing.
+2026-08-14 10:01:27 Loading species.
+2026-08-14 10:01:32 Loading notifications from shape files.
+2026-08-14 10:01:33 Loading observations.
+2026-08-14 10:01:44 Adding observations to notifications.
+2026-08-14 10:01:45 Freeing memory.
+2026-08-14 10:01:45 Loading observation Excel dictionaries.
+2026-08-14 10:01:45 Adding owners.
+2026-08-14 10:02:02 Processing logging notifications.
+2026-08-14 10:02:02 Generating observation maps.
+2026-08-14 10:02:20 Generating knärot maps.
+2026-08-14 10:02:20 Generating complaints.
+2026-08-14 10:02:30 Generating complaint letters.
+2026-08-14 10:02:41 Generating requests.
+2026-08-14 10:02:51 Generating request letters.
+2026-08-14 10:03:12 Saving notification information to Excel.
+2026-08-14 10:03:12 Saving list of notifications to json.
+2026-08-14 10:03:12 Copying species text document.
+2026-08-14 10:03:12 Saving observations to Excel.
+2026-08-14 10:03:22 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-14 10:03:22 Pushing 1 repos.
