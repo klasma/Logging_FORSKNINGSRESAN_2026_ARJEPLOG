@@ -1,32 +1,35 @@
-2026-08-15 13:10:07 Started replace_files.
-2026-08-15 13:10:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-15 13:11:10 Downloading observations.
-2026-08-15 13:11:10 Updating 6849 taxa from 2026-08-14 (=2026-08-15 - 1 days) to 2026-08-15.
-2026-08-15 13:11:10 2026-08-15
-2026-08-15 13:11:13 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-15 13:12:21   upserted 2306 observations
-2026-08-15 13:12:26 2026-08-14
-2026-08-15 13:12:29 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
-2026-08-15 13:13:37   upserted 5657 observations
-2026-08-15 13:13:42   removed 28 observations deleted from Artportalen
-2026-08-15 13:13:42 Processing.
-2026-08-15 13:13:42 Loading species.
-2026-08-15 13:13:47 Loading notifications from shape files.
-2026-08-15 13:13:48 Loading observations.
-2026-08-15 13:13:59 Adding observations to notifications.
-2026-08-15 13:14:04 Freeing memory.
-2026-08-15 13:14:04 Loading observation Excel dictionaries.
-2026-08-15 13:14:05 Adding owners.
-2026-08-15 13:14:23 Processing logging notifications.
-2026-08-15 13:14:23 Generating observation maps.
-2026-08-15 13:16:54 Generating knärot maps.
-2026-08-15 13:17:06 Generating complaints.
-2026-08-15 13:17:17 Generating complaint letters.
-2026-08-15 13:17:27 Generating requests.
-2026-08-15 13:17:38 Generating request letters.
-2026-08-15 13:17:59 Saving notification information to Excel.
-2026-08-15 13:17:59 Saving list of notifications to json.
-2026-08-15 13:17:59 Copying species text document.
-2026-08-15 13:17:59 Saving observations to Excel.
-2026-08-15 13:18:10 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-15 13:18:10 Pushing 1 repos.
+2026-08-15 13:20:07 Started replace_files.
+2026-08-15 13:20:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-15 13:21:10 Downloading observations.
+2026-08-15 13:21:10 Updating 6849 taxa from 2026-08-14 (=2026-08-15 - 1 days) to 2026-08-15.
+2026-08-15 13:21:10 2026-08-15
+2026-08-15 13:21:18   upserted 2389 observations
+2026-08-15 13:21:23 2026-08-14
+2026-08-15 13:21:30 Request failed (attempt 1/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-08-15 13:22:40 Request failed (attempt 2/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-08-15 13:23:47 Request failed (attempt 3/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-08-15 13:24:50 Request failed (attempt 4/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-08-15 13:25:54 Request failed (attempt 5/600): ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-08-15 13:27:01   upserted 5657 observations
+2026-08-15 13:27:07   removed 28 observations deleted from Artportalen
+2026-08-15 13:27:07 Processing.
+2026-08-15 13:27:07 Loading species.
+2026-08-15 13:27:12 Loading notifications from shape files.
+2026-08-15 13:27:12 Loading observations.
+2026-08-15 13:27:24 Adding observations to notifications.
+2026-08-15 13:27:29 Freeing memory.
+2026-08-15 13:27:29 Loading observation Excel dictionaries.
+2026-08-15 13:27:30 Adding owners.
+2026-08-15 13:27:48 Processing logging notifications.
+2026-08-15 13:27:48 Generating observation maps.
+2026-08-15 13:30:19 Generating knärot maps.
+2026-08-15 13:30:30 Generating complaints.
+2026-08-15 13:30:42 Generating complaint letters.
+2026-08-15 13:30:52 Generating requests.
+2026-08-15 13:31:03 Generating request letters.
+2026-08-15 13:31:23 Saving notification information to Excel.
+2026-08-15 13:31:24 Saving list of notifications to json.
+2026-08-15 13:31:24 Copying species text document.
+2026-08-15 13:31:24 Saving observations to Excel.
+2026-08-15 13:31:35 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-15 13:31:35 Pushing 1 repos.
