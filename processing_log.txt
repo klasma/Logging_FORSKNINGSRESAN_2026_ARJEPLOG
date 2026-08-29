@@ -1,30 +1,36 @@
-2026-08-29 21:00:07 Started replace_files.
-2026-08-29 21:00:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-29 21:01:55 Downloading observations.
-2026-08-29 21:01:55 Updating 6849 taxa from 2026-08-28 (=2026-08-29 - 1 days) to 2026-08-29.
-2026-08-29 21:01:55 2026-08-29
-2026-08-29 21:02:09   upserted 5606 observations
-2026-08-29 21:02:15 2026-08-28
-2026-08-29 21:02:27   upserted 6832 observations
-2026-08-29 21:02:33   removed 39 observations deleted from Artportalen
-2026-08-29 21:02:33 Processing.
-2026-08-29 21:02:33 Loading species.
-2026-08-29 21:02:38 Loading notifications from shape files.
-2026-08-29 21:02:39 Loading observations.
-2026-08-29 21:02:50 Adding observations to notifications.
-2026-08-29 21:02:55 Freeing memory.
-2026-08-29 21:02:55 Loading observation Excel dictionaries.
-2026-08-29 21:02:56 Adding owners.
-2026-08-29 21:03:13 Processing logging notifications.
-2026-08-29 21:03:13 Generating observation maps.
-2026-08-29 21:05:46 Generating knärot maps.
-2026-08-29 21:05:57 Generating complaints.
-2026-08-29 21:06:08 Generating complaint letters.
-2026-08-29 21:06:19 Generating requests.
-2026-08-29 21:06:30 Generating request letters.
-2026-08-29 21:06:51 Saving notification information to Excel.
-2026-08-29 21:06:51 Saving list of notifications to json.
-2026-08-29 21:06:51 Copying species text document.
-2026-08-29 21:06:51 Saving observations to Excel.
-2026-08-29 21:07:02 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-08-29 21:07:02 Pushing 1 repos.
+2026-08-29 21:10:07 Started replace_files.
+2026-08-29 21:10:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-29 21:11:54 Downloading observations.
+2026-08-29 21:11:54 Updating 6849 taxa from 2026-08-28 (=2026-08-29 - 1 days) to 2026-08-29.
+2026-08-29 21:11:54 2026-08-29
+2026-08-29 21:12:15 Request failed (attempt 1/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Max retries exceeded with url: /species-observation-system/v1/Exports/Download/GeoJson?cultureCode=sv-SE&flat=false&excludeNullValues=true&gzip=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.artdatabanken.se', port=443) at 0x1f71cfdecf0>, 'Connection to api.artdatabanken.se timed out. (connect timeout=60)'))
+2026-08-29 21:13:36 Request failed (attempt 2/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Max retries exceeded with url: /species-observation-system/v1/Exports/Download/GeoJson?cultureCode=sv-SE&flat=false&excludeNullValues=true&gzip=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.artdatabanken.se', port=443) at 0x1f71d0c9bd0>, 'Connection to api.artdatabanken.se timed out. (connect timeout=60)'))
+2026-08-29 21:14:57 Request failed (attempt 3/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Max retries exceeded with url: /species-observation-system/v1/Exports/Download/GeoJson?cultureCode=sv-SE&flat=false&excludeNullValues=true&gzip=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.artdatabanken.se', port=443) at 0x1f71d0c87d0>, 'Connection to api.artdatabanken.se timed out. (connect timeout=60)'))
+2026-08-29 21:16:18 Request failed (attempt 4/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Max retries exceeded with url: /species-observation-system/v1/Exports/Download/GeoJson?cultureCode=sv-SE&flat=false&excludeNullValues=true&gzip=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.artdatabanken.se', port=443) at 0x1f71d0cb390>, 'Connection to api.artdatabanken.se timed out. (connect timeout=60)'))
+2026-08-29 21:17:39 Request failed (attempt 5/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Max retries exceeded with url: /species-observation-system/v1/Exports/Download/GeoJson?cultureCode=sv-SE&flat=false&excludeNullValues=true&gzip=true (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.artdatabanken.se', port=443) at 0x1f71d0c9f90>, 'Connection to api.artdatabanken.se timed out. (connect timeout=60)'))
+2026-08-29 21:18:55   upserted 5777 observations
+2026-08-29 21:19:01   removed 7 observations deleted from Artportalen
+2026-08-29 21:19:01 2026-08-28
+2026-08-29 21:19:19   upserted 6824 observations
+2026-08-29 21:19:24   removed 39 observations deleted from Artportalen
+2026-08-29 21:19:25 Processing.
+2026-08-29 21:19:25 Loading species.
+2026-08-29 21:19:29 Loading notifications from shape files.
+2026-08-29 21:19:30 Loading observations.
+2026-08-29 21:19:41 Adding observations to notifications.
+2026-08-29 21:19:46 Freeing memory.
+2026-08-29 21:19:47 Loading observation Excel dictionaries.
+2026-08-29 21:19:47 Adding owners.
+2026-08-29 21:20:05 Processing logging notifications.
+2026-08-29 21:20:05 Generating observation maps.
+2026-08-29 21:22:38 Generating knärot maps.
+2026-08-29 21:22:49 Generating complaints.
+2026-08-29 21:23:00 Generating complaint letters.
+2026-08-29 21:23:11 Generating requests.
+2026-08-29 21:23:22 Generating request letters.
+2026-08-29 21:23:43 Saving notification information to Excel.
+2026-08-29 21:23:43 Saving list of notifications to json.
+2026-08-29 21:23:43 Copying species text document.
+2026-08-29 21:23:43 Saving observations to Excel.
+2026-08-29 21:23:54 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-08-29 21:23:54 Pushing 1 repos.
