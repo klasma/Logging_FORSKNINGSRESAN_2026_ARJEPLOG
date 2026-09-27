@@ -1,32 +1,33 @@
-2026-09-27 13:50:07 Started replace_files.
-2026-09-27 13:50:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-09-27 13:53:20 Downloading observations.
-2026-09-27 13:53:20 Updating 6849 taxa from 2026-09-26 (=2026-09-27 - 1 days) to 2026-09-27.
-2026-09-27 13:53:20 2026-09-27
-2026-09-27 13:53:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 15 seconds." }
-2026-09-27 13:53:41   upserted 3270 observations
-2026-09-27 13:53:47 2026-09-26
-2026-09-27 13:53:48 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 115 seconds." }
-2026-09-27 13:55:51   upserted 6338 observations
-2026-09-27 13:55:57   removed 53 observations deleted from Artportalen
-2026-09-27 13:55:57 Processing.
-2026-09-27 13:55:57 Loading species.
-2026-09-27 13:56:02 Loading notifications from shape files.
-2026-09-27 13:56:02 Loading observations.
-2026-09-27 13:56:13 Adding observations to notifications.
-2026-09-27 13:56:18 Freeing memory.
-2026-09-27 13:56:18 Loading observation Excel dictionaries.
-2026-09-27 13:56:19 Adding owners.
-2026-09-27 13:56:37 Processing logging notifications.
-2026-09-27 13:56:37 Generating observation maps.
-2026-09-27 13:59:11 Generating knärot maps.
-2026-09-27 13:59:22 Generating complaints.
-2026-09-27 13:59:33 Generating complaint letters.
-2026-09-27 13:59:44 Generating requests.
-2026-09-27 13:59:55 Generating request letters.
-2026-09-27 14:00:16 Saving notification information to Excel.
-2026-09-27 14:00:16 Saving list of notifications to json.
-2026-09-27 14:00:16 Copying species text document.
-2026-09-27 14:00:16 Saving observations to Excel.
-2026-09-27 14:00:27 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-09-27 14:00:27 Pushing 1 repos.
+2026-09-27 14:10:07 Started replace_files.
+2026-09-27 14:10:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-09-27 14:13:20 Downloading observations.
+2026-09-27 14:13:20 Updating 6849 taxa from 2026-09-26 (=2026-09-27 - 1 days) to 2026-09-27.
+2026-09-27 14:13:20 2026-09-27
+2026-09-27 14:13:20 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 48 seconds." }
+2026-09-27 14:14:13   upserted 3538 observations
+2026-09-27 14:14:18   removed 2 observations deleted from Artportalen
+2026-09-27 14:14:18 2026-09-26
+2026-09-27 14:14:19 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 104 seconds." }
+2026-09-27 14:16:10   upserted 6337 observations
+2026-09-27 14:16:16   removed 52 observations deleted from Artportalen
+2026-09-27 14:16:16 Processing.
+2026-09-27 14:16:16 Loading species.
+2026-09-27 14:16:21 Loading notifications from shape files.
+2026-09-27 14:16:21 Loading observations.
+2026-09-27 14:16:33 Adding observations to notifications.
+2026-09-27 14:16:38 Freeing memory.
+2026-09-27 14:16:38 Loading observation Excel dictionaries.
+2026-09-27 14:16:39 Adding owners.
+2026-09-27 14:16:57 Processing logging notifications.
+2026-09-27 14:16:57 Generating observation maps.
+2026-09-27 14:19:30 Generating knärot maps.
+2026-09-27 14:19:42 Generating complaints.
+2026-09-27 14:19:53 Generating complaint letters.
+2026-09-27 14:20:03 Generating requests.
+2026-09-27 14:20:14 Generating request letters.
+2026-09-27 14:20:35 Saving notification information to Excel.
+2026-09-27 14:20:35 Saving list of notifications to json.
+2026-09-27 14:20:35 Copying species text document.
+2026-09-27 14:20:35 Saving observations to Excel.
+2026-09-27 14:20:46 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-09-27 14:20:46 Pushing 1 repos.
