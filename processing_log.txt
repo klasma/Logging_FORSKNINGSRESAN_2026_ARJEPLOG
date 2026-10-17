@@ -1,45 +1,29 @@
-2026-10-17 10:30:08 Started replace_files.
-2026-10-17 10:30:08 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-10-17 10:34:06 Downloading observations.
-2026-10-17 10:34:06 Updating 6849 taxa from 2026-10-16 (=2026-10-17 - 1 days) to 2026-10-17.
-2026-10-17 10:34:06 2026-10-17
-2026-10-17 10:35:01 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-078304d533baf135355f24425323ca16-6f549920bdb72e37-01"}
-2026-10-17 10:35:57 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-6a1c2dbd7ba7c2e081bbc41ce208da42-f683ea792edb4cd9-01"}
-2026-10-17 10:36:53 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-a4dadf34f315c48feb004699caabf1fb-b8c88d72d5ab891e-01"}
-2026-10-17 10:37:49 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-a03b4e20896d026e9f27ab033a55e982-8fcc7a1bf5e29fb9-01"}
-2026-10-17 10:38:45 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-6a509e3efd92a0a88e5b71dde8912c76-816ae4cdfa2c89a1-01"}
-2026-10-17 10:39:41 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-5afde7b3aceb93d903f2b9fc4cbcbe0b-e8244e0a70b87a2a-01"}
-2026-10-17 10:40:37 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-d86e3fc5476f9db4850812e6b71b0e30-6d53edad1c13cef2-01"}
-2026-10-17 10:41:34 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-b86ebd82e198562b1313f5bafb5a39aa-a9cd4a6c89bbceab-01"}
-2026-10-17 10:42:30 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-97f23cf6f4bc76e5d9d0a41032ff3d01-1b23f46663088b29-01"}
-2026-10-17 10:45:27 {"type":"https://tools.ietf.org/html/rfc9110#section-15.6.1","title":"An error occurred while processing your request.","status":500,"traceId":"00-d3796b168350acebc24f682c88743303-663e646cd2975bb3-01"}
-2026-10-17 10:55:28 Request failed (attempt 1/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Read timed out. (read timeout=600)
-2026-10-17 11:06:29 Request failed (attempt 2/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Read timed out. (read timeout=600)
-2026-10-17 11:17:30 Request failed (attempt 3/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Read timed out. (read timeout=600)
-2026-10-17 11:28:30 Request failed (attempt 4/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Read timed out. (read timeout=600)
-2026-10-17 11:39:31 Request failed (attempt 5/600): HTTPSConnectionPool(host='api.artdatabanken.se', port=443): Read timed out. (read timeout=600)
-2026-10-17 11:49:19   upserted 2993 observations
-2026-10-17 11:49:25 2026-10-16
-2026-10-17 11:49:36   upserted 8903 observations
-2026-10-17 11:49:42   removed 1 observations deleted from Artportalen
-2026-10-17 11:49:42 Processing.
-2026-10-17 11:49:42 Loading species.
-2026-10-17 11:49:47 Loading notifications from shape files.
-2026-10-17 11:49:47 Loading observations.
-2026-10-17 11:49:59 Adding observations to notifications.
-2026-10-17 11:50:04 Freeing memory.
-2026-10-17 11:50:04 Loading observation Excel dictionaries.
-2026-10-17 11:50:05 Adding owners.
-2026-10-17 11:50:23 Processing logging notifications.
-2026-10-17 11:50:23 Generating observation maps.
-2026-10-17 11:52:58 Generating knärot maps.
-2026-10-17 11:53:14 Generating complaints.
-2026-10-17 11:53:29 Generating complaint letters.
-2026-10-17 11:53:44 Generating requests.
-2026-10-17 11:54:00 Generating request letters.
-2026-10-17 11:54:29 Saving notification information to Excel.
-2026-10-17 11:54:29 Saving list of notifications to json.
-2026-10-17 11:54:29 Copying species text document.
-2026-10-17 11:54:29 Saving observations to Excel.
-2026-10-17 11:54:44 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-10-17 11:54:44 Pushing 1 repos.
+2026-10-17 12:00:07 Started replace_files.
+2026-10-17 12:00:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-10-17 12:04:05 Downloading observations.
+2026-10-17 12:04:05 Updating 6849 taxa from 2026-10-16 (=2026-10-17 - 1 days) to 2026-10-17.
+2026-10-17 12:04:05 2026-10-17
+2026-10-17 12:04:13   upserted 3096 observations
+2026-10-17 12:04:19 2026-10-16
+2026-10-17 12:04:28   upserted 8903 observations
+2026-10-17 12:04:34 Processing.
+2026-10-17 12:04:34 Loading species.
+2026-10-17 12:04:39 Loading notifications from shape files.
+2026-10-17 12:04:39 Loading observations.
+2026-10-17 12:04:51 Adding observations to notifications.
+2026-10-17 12:04:56 Freeing memory.
+2026-10-17 12:04:56 Loading observation Excel dictionaries.
+2026-10-17 12:04:57 Adding owners.
+2026-10-17 12:05:16 Processing logging notifications.
+2026-10-17 12:05:16 Generating observation maps.
+2026-10-17 12:07:48 Generating knärot maps.
+2026-10-17 12:08:04 Generating complaints.
+2026-10-17 12:08:19 Generating complaint letters.
+2026-10-17 12:08:34 Generating requests.
+2026-10-17 12:08:50 Generating request letters.
+2026-10-17 12:09:19 Saving notification information to Excel.
+2026-10-17 12:09:19 Saving list of notifications to json.
+2026-10-17 12:09:19 Copying species text document.
+2026-10-17 12:09:19 Saving observations to Excel.
+2026-10-17 12:09:35 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-10-17 12:09:35 Pushing 1 repos.
