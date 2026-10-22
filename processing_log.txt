@@ -1,29 +1,30 @@
-2026-10-22 05:31:08 Started replace_files.
-2026-10-22 05:31:08 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-10-22 05:35:15 Downloading observations.
-2026-10-22 05:35:15 Updating 6849 taxa from 2026-10-21 (=2026-10-22 - 1 days) to 2026-10-22.
-2026-10-22 05:35:15 2026-10-22
-2026-10-22 05:35:20   upserted 16 observations
-2026-10-22 05:35:26 2026-10-21
-2026-10-22 05:35:31   upserted 4828 observations
-2026-10-22 05:35:37 Processing.
-2026-10-22 05:35:37 Loading species.
-2026-10-22 05:35:42 Loading notifications from shape files.
-2026-10-22 05:35:43 Loading observations.
-2026-10-22 05:35:54 Adding observations to notifications.
-2026-10-22 05:36:00 Freeing memory.
-2026-10-22 05:36:00 Loading observation Excel dictionaries.
-2026-10-22 05:36:01 Adding owners.
-2026-10-22 05:36:19 Processing logging notifications.
-2026-10-22 05:36:19 Generating observation maps.
-2026-10-22 05:38:58 Generating knärot maps.
-2026-10-22 05:39:14 Generating complaints.
-2026-10-22 05:39:29 Generating complaint letters.
-2026-10-22 05:39:45 Generating requests.
-2026-10-22 05:40:00 Generating request letters.
-2026-10-22 05:40:29 Saving notification information to Excel.
-2026-10-22 05:40:29 Saving list of notifications to json.
-2026-10-22 05:40:29 Copying species text document.
-2026-10-22 05:40:29 Saving observations to Excel.
-2026-10-22 05:40:45 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-10-22 05:40:45 Pushing 1 repos.
+2026-10-22 05:50:08 Started replace_files.
+2026-10-22 05:50:08 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-10-22 05:54:52 Downloading observations.
+2026-10-22 05:54:52 Updating 6849 taxa from 2026-10-21 (=2026-10-22 - 1 days) to 2026-10-22.
+2026-10-22 05:54:52 2026-10-22
+2026-10-22 05:54:58   upserted 19 observations
+2026-10-22 05:55:05 2026-10-21
+2026-10-22 05:55:32   upserted 4827 observations
+2026-10-22 05:55:39   removed 1 observations deleted from Artportalen
+2026-10-22 05:55:39 Processing.
+2026-10-22 05:55:39 Loading species.
+2026-10-22 05:55:45 Loading notifications from shape files.
+2026-10-22 05:55:45 Loading observations.
+2026-10-22 05:55:58 Adding observations to notifications.
+2026-10-22 05:56:04 Freeing memory.
+2026-10-22 05:56:04 Loading observation Excel dictionaries.
+2026-10-22 05:56:05 Adding owners.
+2026-10-22 05:56:27 Processing logging notifications.
+2026-10-22 05:56:27 Generating observation maps.
+2026-10-22 05:59:09 Generating knärot maps.
+2026-10-22 05:59:24 Generating complaints.
+2026-10-22 05:59:41 Generating complaint letters.
+2026-10-22 05:59:57 Generating requests.
+2026-10-22 06:00:13 Generating request letters.
+2026-10-22 06:00:43 Saving notification information to Excel.
+2026-10-22 06:00:43 Saving list of notifications to json.
+2026-10-22 06:00:43 Copying species text document.
+2026-10-22 06:00:43 Saving observations to Excel.
+2026-10-22 06:01:00 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-10-22 06:01:00 Pushing 1 repos.
