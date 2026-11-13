@@ -1,29 +1,62 @@
-2026-11-11 23:50:08 Started replace_files.
-2026-11-11 23:50:08 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-11-11 23:54:39 Downloading observations.
-2026-11-11 23:54:39 Updating 6849 taxa from 2026-11-10 (=2026-11-11 - 1 days) to 2026-11-11.
-2026-11-11 23:54:39 2026-11-11
-2026-11-11 23:54:48   upserted 4623 observations
-2026-11-11 23:54:54 2026-11-10
-2026-11-11 23:55:05   upserted 8051 observations
-2026-11-11 23:55:11 Processing.
-2026-11-11 23:55:11 Loading species.
-2026-11-11 23:55:16 Loading notifications from shape files.
-2026-11-11 23:55:16 Loading observations.
-2026-11-11 23:55:28 Adding observations to notifications.
-2026-11-11 23:55:33 Freeing memory.
-2026-11-11 23:55:33 Loading observation Excel dictionaries.
-2026-11-11 23:55:34 Adding owners.
-2026-11-11 23:55:52 Processing logging notifications.
-2026-11-11 23:55:52 Generating observation maps.
-2026-11-11 23:58:37 Generating knärot maps.
-2026-11-11 23:58:52 Generating complaints.
-2026-11-11 23:59:07 Generating complaint letters.
-2026-11-11 23:59:22 Generating requests.
-2026-11-11 23:59:37 Generating request letters.
-2026-11-12 00:00:07 Saving notification information to Excel.
-2026-11-12 00:00:07 Saving list of notifications to json.
-2026-11-12 00:00:07 Copying species text document.
-2026-11-12 00:00:07 Saving observations to Excel.
-2026-11-12 00:00:22 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
-2026-11-12 00:00:22 Pushing 1 repos.
+2026-11-13 23:44:07 Started replace_files.
+2026-11-13 23:44:07 Cloning repo https://github.com/klasma/Logging_FORSKNINGSRESAN_2026_ARJEPLOG into C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-11-13 23:53:15 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-11-13 23:53:15 Downloading observations.
+2026-11-13 23:53:16 Updating 6780 taxa from 2026-11-11 (=2026-11-12 - 1 days) to 2026-11-13.
+2026-11-13 23:53:16 2026-11-13
+2026-11-13 23:53:25   upserted 5524 observations
+2026-11-13 23:53:31 2026-11-12
+2026-11-13 23:53:40   upserted 3296 observations
+2026-11-13 23:53:46 2026-11-11
+2026-11-13 23:53:50   upserted 4108 observations
+2026-11-13 23:53:56   removed 15 observations deleted from Artportalen
+2026-11-13 23:53:56 Updating 8 taxa from 2026-06-20 (=2026-06-21 - 1 days) to 2026-11-13.
+2026-11-13 23:53:56 2026-11-13
+2026-11-13 23:53:57   upserted 17 observations
+2026-11-13 23:53:57 2026-11-12
+2026-11-13 23:53:57   upserted 9 observations
+2026-11-13 23:53:57 2026-10-12 .. 2026-11-11 (31 days)
+2026-11-13 23:53:59   upserted 656 observations
+2026-11-13 23:53:59 2026-06-20 .. 2026-10-11 (114 days)
+2026-11-13 23:54:00 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 263 seconds." }
+2026-11-13 23:58:28   upserted 2720 observations
+2026-11-13 23:58:28 Downloading 34 new taxa from 1900-01-01 to 2026-11-13.
+2026-11-13 23:58:28 2026-11-13
+2026-11-13 23:58:29 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 5 seconds." }
+2026-11-13 23:58:34   upserted 15 observations
+2026-11-13 23:58:34 2026-11-12
+2026-11-13 23:58:35 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 10 seconds." }
+2026-11-13 23:58:46   upserted 2 observations
+2026-11-13 23:58:46 2026-10-12 .. 2026-11-11 (31 days)
+2026-11-13 23:58:46 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 7 seconds." }
+2026-11-13 23:58:54   upserted 119 observations
+2026-11-13 23:58:54 2025-10-12 .. 2026-10-11 (365 days)
+2026-11-13 23:58:59   upserted 1463 observations
+2026-11-13 23:58:59 1998-05-02 .. 2025-10-11 (10025 days)
+2026-11-13 23:59:42   upserted 17945 observations
+2026-11-13 23:59:42 1939-11-22 .. 1998-05-01 (21346 days)
+2026-11-13 23:59:43 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 223 seconds." }
+2026-11-14 00:03:26 1900-01-01 .. 1939-11-21 (14569 days)
+2026-11-14 00:03:27 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 8 seconds." }
+2026-11-14 00:03:36 { "statusCode": 429, "message": "Rate limit is exceeded. Try again in 11 seconds." }
+2026-11-14 00:03:47 Processing.
+2026-11-14 00:03:47 Loading species.
+2026-11-14 00:03:53 Loading notifications from shape files.
+2026-11-14 00:03:54 Loading observations.
+2026-11-14 00:04:11 Adding observations to notifications.
+2026-11-14 00:04:19 Freeing memory.
+2026-11-14 00:04:20 Loading observation Excel dictionaries.
+2026-11-14 00:04:21 Adding owners.
+2026-11-14 00:04:46 Processing logging notifications.
+2026-11-14 00:04:46 Generating observation maps.
+2026-11-14 00:08:01 Generating knärot maps.
+2026-11-14 00:08:17 Generating complaints.
+2026-11-14 00:08:32 Generating complaint letters.
+2026-11-14 00:08:48 Generating requests.
+2026-11-14 00:09:03 Generating request letters.
+2026-11-14 00:09:35 Saving notification information to Excel.
+2026-11-14 00:09:35 Saving list of notifications to json.
+2026-11-14 00:09:35 Copying species text document.
+2026-11-14 00:09:35 Saving observations to Excel.
+2026-11-14 00:09:52 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2026_ARJEPLOG.
+2026-11-14 00:09:52 Pushing 1 repos.
